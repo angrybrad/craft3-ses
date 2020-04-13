@@ -1,5 +1,5 @@
 {
-    "name": "borucreative/craft3-ses",
+    "name": "test/craft3-ses",
     "description": "A CraftCMS v3 Mail Transport strategy using Amazon SES",
     "type": "craft-plugin",
     "version": "1.0.0",
@@ -15,8 +15,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Boru Creative",
-            "homepage": "https://www.borucreative.com"
+            "name": "Test",
+            "homepage": "https://www.test.com"
         }
     ],
     "require": {
@@ -33,7 +33,7 @@
         "schemaVersion": "1.0.0",
         "hasSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://www.github.com/borucreative/craft3-ses/blob/master/CHANGELOG.md",
+        "changelogUrl": "https://github.com/angrybrad/craft3-ses/blob/master/CHANGELOG.md",
         "class": "Boru\\Ses\\Plugin"
     }
 }
